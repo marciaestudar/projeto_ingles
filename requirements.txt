@@ -7,3 +7,4 @@ matplotlib
 wavfile
 scipy
 streamlit_webrtc
+av # Adicionado pois o webrtc_streamer usa o PyAV
