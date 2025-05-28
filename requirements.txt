@@ -6,3 +6,4 @@ pdfplumber
 matplotlib
 wavfile
 scipy
+streamlit_webrtc
