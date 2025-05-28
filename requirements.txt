@@ -3,5 +3,5 @@ pandas
 plotly
 gtts
 pdfplumber
-matplotlib.pyplot
+matplotlib
 wavfile
